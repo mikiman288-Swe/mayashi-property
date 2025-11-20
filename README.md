@@ -1,2 +1,0 @@
-# mayashi-property
-Web test
